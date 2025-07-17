@@ -1,0 +1,9 @@
+# .gitignore
+*.log
+*.sql
+*.zip
+node_modules/
+vendor/
+.env
+.idea/
+*.DS_Store
