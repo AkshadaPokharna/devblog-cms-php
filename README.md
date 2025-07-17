@@ -2,8 +2,6 @@
 
 DevBlog CMS is a lightweight content management system built with PHP and MySQL that allows users to register, log in, and create, edit, or delete blog posts. It features a clean UI, secure login system, and an easy-to-use admin dashboard — perfect for learning full-stack PHP development.
 
-> 🚀 Built as part of internship preparation for rtCamp.
-
 ---
 
 ## 🔧 Features
